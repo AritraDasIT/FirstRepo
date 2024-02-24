@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main
 {   // function for sorting
-
+ 
     public static void Sort(int arr[])
     {
         int  n = arr.length;
